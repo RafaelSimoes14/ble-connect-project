@@ -16,6 +16,7 @@ Aplicativo Android responsável por:
 ### Tecnologias
 - Kotlin
 - MVVM + Clean Architecture
+- Kotlin Multiplatform (KMP) para compartilhamento de lógica e abstração de BLE
 - Jetpack Compose (UI moderna e declarativa)
 - Bluetooth Low Energy (BLE)
 - Android SDK
