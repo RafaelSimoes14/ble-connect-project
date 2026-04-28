@@ -26,7 +26,6 @@ Aplicativo Android responsável por:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/463d43ab-15f6-475c-9188-8b24d49d6e24" width="300"/>
-  <img src="https://github.com/user-attachments/assets/897d1327-e515-47d4-98ae-bb91b63dd0f0" width="300"/>
   <img src="https://github.com/user-attachments/assets/7c8457a4-a5c6-4a5a-bd31-8b00b6fb464e" width="300"/>
 </p>
 
