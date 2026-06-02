@@ -95,7 +95,7 @@ O app envia comandos para o ESP32 via BLE:
 - Segurança na comunicação BLE
 - Suporte a múltiplos dispositivos
 - Modularização do firmware
-- Testes unitários e instrumentados do app
+- Testes instrumentados do app
 
 
 ## Autor
